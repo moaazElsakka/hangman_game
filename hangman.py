@@ -331,12 +331,12 @@ if __name__ == "__main__":
     # print(is_word_guessed('apple', l2))
     # print (get_guessed_word('apple', l2))
     # print (get_available_letters(l2))
-    #-----------------------------------------------
-    
     # print(match_with_gaps("te_ t", "tact"))
     # print(match_with_gaps("a_ _ le", "banana"))
     # print(match_with_gaps("a_ _ le", "apple"))
     # print(match_with_gaps("a_ ple", "apple"))
+    #-----------------------------------------------
+    
     
 
     # show_possible_matches('_ a_ _ _ t')     
